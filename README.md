@@ -41,8 +41,8 @@ Server runs at `http://127.0.0.1:8000`
 ```json
 {
   "id": 1,
-  "name": "Alice Sharma",
-  "email": "alice@example.com",
+  "name": "Thahaseen",
+  "email": "tasee@example.com",
   "team": "backend"
 }
 ```
